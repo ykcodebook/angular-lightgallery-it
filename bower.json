@@ -1,0 +1,31 @@
+{
+  "name": "angular-lightgallery-it",
+  "description": "fixes",
+  "main":  [
+        "dist/js/lightgallery.min.js",
+        "dist/css/lightgallery.css",
+        "dist/fonts/lg.eot",
+        "dist/fonts/lg.svg",
+        "dist/fonts/lg.ttf",
+        "dist/fonts/lg.woff",
+        "dist/img/loading.gif",
+        "dist/img/video-play.png",
+        "dist/img/vimeo-play.png",
+        "dist/img/youtube-play.png"
+    ],,
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+      "dependencies": {
+        "jquery": ">=1.7.0"
+    },
+    "devDependencies": {
+        "qunit": "~1.12.0"
+    }
+}
