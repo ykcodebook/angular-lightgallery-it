@@ -12,7 +12,7 @@
         "dist/img/video-play.png",
         "dist/img/vimeo-play.png",
         "dist/img/youtube-play.png"
-    ],,
+    ],
   "license": "MIT",
   "homepage": "",
   "ignore": [
